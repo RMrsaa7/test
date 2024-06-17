@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+h1{
+    padding-top: 30px;
+}
+
+#cube{
+    max-height: 50vh;
+    margin: 20px;
+}
+
+p{
+    font-size: 15pt;
+}
+
+.tombol{
+    margin: 15px;
+}
+
+button{
+    width: 150px;
+    font-size: 10pt;
+    padding: 3px;
+    cursor: pointer;
+}
+
+#fun{
+    font-style: italic;
+}
